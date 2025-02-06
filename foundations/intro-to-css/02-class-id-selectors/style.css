@@ -5,4 +5,18 @@
 
 .medida{
     font-size: 24px;
+}
+
+#num2{
+    color: #0000ff;
+    font-size: 36px;
+    font-family: DejaVu Sans;
+}
+
+#num4{
+    background-color: #abebc6;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: DejaVu Sans;
   }
+    
