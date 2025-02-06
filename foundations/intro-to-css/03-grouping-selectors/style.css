@@ -2,3 +2,12 @@
     background-color: #000000;
     color: #ffffff;
 }
+
+.btn-2{
+    background-color: #ffff00;
+}
+
+.btn-1, .btn-2{
+    font-family: Helvetica, Times New Roman, sans-serif;
+    font-size: 28px;
+}
